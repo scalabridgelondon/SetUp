@@ -19,7 +19,7 @@ The base project provides some basic configuration for the work we'll do at Scal
 
 - *If you don't have programming experience* get the [Creative Scala template][creative-scala-template]. Click the green "Clone or download" button and choose "Download ZIP". (If you know how to use Git you can clone or fork the repository instead.)
 
-- *If you have programming experience, but not with Scala* TBC
+- *If you have programming experience, but not with Scala* get the [ScalaBridge starter project][scalabridge-starter-project].
 
 - *If you have Scala experience* setup yourself up a project.
 
@@ -27,3 +27,4 @@ The base project provides some basic configuration for the work we'll do at Scal
 [sbt]: https://www.scala-sbt.org/
 [intellij-scala]: https://github.com/JetBrains/intellij-scala-bundle
 [creative-scala-template]: https://github.com/creativescala/creative-scala-template
+[scalabridge-starter-project]: https://github.com/scalabridgelondon/scalabridge-starter-project
